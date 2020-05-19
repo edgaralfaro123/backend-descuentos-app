@@ -3,3 +3,4 @@ vscode/
 .vscode/
 idea/
 .idea/
+src/mysql/mysql.ts
